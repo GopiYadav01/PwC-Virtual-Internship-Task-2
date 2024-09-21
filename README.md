@@ -59,7 +59,7 @@ To improve churn rates, the following KPIs are being monitored:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/PhoneNow-Churn-Dashboard.git
+    git clone https://github.com/GopiYadav01/PhoneNow-Churn-Dashboard.git
     ```
 2. **Run the Analysis**: Use the provided dataset and visualizations to analyze customer churn.
 3. **Monitor KPIs**: Use the KPIs to track progress and improve customer retention strategies.
