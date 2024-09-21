@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Recommendations](#recommendations)
+- [Dashboard Highlights](#dashboard-highlights)
 
 ## Overview
 
